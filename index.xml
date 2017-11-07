@@ -27,7 +27,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <p><img src="https://github.com/giraola/giraola.github.io/blob/master/images/banner.png" alt="banner"></p>
+        <p><img src="https://github.com/giraola/giraola.github.io/blob/master/images/banner.png" alt="banner"></img></p>
 
 <h3>Welcome to Gregorio Iraola repository @<a href="http://github.com">GitHub</a>.</h3>
 
